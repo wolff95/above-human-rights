@@ -17,14 +17,14 @@
   "TUTORIAL_SKIP_BUTTON": "Salta",
   "TUTORIAL_CONTINUE_BUTTON": "Continua",
 
-  "TUTORIAL_SLIDE1_TITLE": "Benvenuti in Ionic Super Starter",
-  "TUTORIAL_SLIDE1_DESCRIPTION": "<b>Ionic Super Starter</b> è un applicazione di partenza per Ionic che contiene molte pagine di esempio già pronte realizzate seguendo delle best practices.",
+  "TUTORIAL_SLIDE1_TITLE": "Benvenuti in Above Human Rights",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "<b>Above Human Rights</b> è un gioco di carte nel quale vince la persona che riesce ad essere più politicamente o moralmente scorretta.",
 
-  "TUTORIAL_SLIDE2_TITLE": "Come usare Super Starter",
-  "TUTORIAL_SLIDE2_DESCRIPTION": "Mantenete le pagine che volete e rimuovete quelle che non vi servono. Troverete diverse pagine di uso comune in questa applicazione come le pagine per il login e la registrazione, layout con tabs, e questa pagina di tutorial.",
+  "TUTORIAL_SLIDE2_TITLE": "Come si gioca?",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Ci sono due tipi di carte: <b>carte bianche</b> e <b>carte nere</b>. Le <b>carte nere</b> contengono delle frasi incomplete che dovranno essere completate con le <b>carte bianche</b>.",
 
-  "TUTORIAL_SLIDE3_TITLE": "Come iniziare",
-  "TUTORIAL_SLIDE3_DESCRIPTION": "Serve aiuto? Leggete il README del progetto Super Starter per avere maggiori informazioni sul tutorial completo.",
+  "TUTORIAL_SLIDE3_TITLE": "Due modalità di gioco",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "<b>Globale</b> : durante la giornata verranno selezionate diverse carte nere, te dovrai pubblicare la tua risposta, la quale verrà votata dagli altri utenti. Vince chi ha i voti più alti all'estrazione della carta nera successiva;<br/> <b>Privato</b> : invita i tuoi amici per una partita: verranno distribuite 7 carte bianche a testa, ed ogni turno si pesca una carta nera.",
 
   "TUTORIAL_SLIDE4_TITLE": "Pronti ad iniziare?",
 
